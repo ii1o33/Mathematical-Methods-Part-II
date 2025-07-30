@@ -1,1 +1,1 @@
-.
+For detailed information on the course structure and syllabus, see the [Engineering Tripos Part IIA 3M1: Mathematical Methods 2023–24](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3m1-mathematical-methods-2023-24).
